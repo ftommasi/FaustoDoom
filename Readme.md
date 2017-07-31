@@ -1,0 +1,3 @@
+This is Fausto Doom. A "rough-around-the-edges" port of doom. This is more of a learning experience in rendering, game programming, graphics programming, and is generally more of a tech venture than an attempt to make a clean polished game or port of a very old game. 
+Doom is a great game for this experience as it is small and simple enough for a single person to do all the programming in terms of rendering and game logic. 
+The goal is to take a game like doom and re write (or the engine rather) to a fully 3d engine instead pf the 2.5d. There is seemingly no gain to this other than maybe providing a better engine for total conversion wads
